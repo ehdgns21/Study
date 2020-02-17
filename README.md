@@ -2,7 +2,7 @@
 # 학습 리스트
 1. 파이썬 라이브러리
     - pandas, numpy, 
-    -scikit learn, tensorflow
+    - scikit-learn, tensorflow
 
 
 2. 머신러닝 이론 > 코드
