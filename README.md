@@ -8,7 +8,7 @@
 2. 머신러닝 이론 > 코드
    - 선형회귀
    - SVM
-  - Decision Tree  
+   - Decision Tree  
  
  
 3. 화면단
